@@ -1,0 +1,703 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Scene's chang'd a poem ...</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1700</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 29 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A62327</idno>
+            <idno type="STC">Wing S846</idno>
+            <idno type="STC">ESTC R23289</idno>
+            <idno type="EEBO-CITATION">12066573</idno>
+            <idno type="OCLC">ocm 12066573</idno>
+            <idno type="VID">53377</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A62327)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 53377)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 822:15)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Scene's chang'd a poem ...</title>
+               </titleStmt>
+               <extent>[2], 12 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for W. Hawes ... :</publisher>
+                  <publisher>and sold by John Nutt,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1700.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Religious poetry, English --  Early modern, 1500-1700.</term>
+               <term>English poetry --  Early modern, 1500-1700.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-05</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2010-05</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:53377:1"/>
+            <pb facs="tcp:53377:1"/>
+            <p>THE Scene's Chang'd. A POEM. Dedicated to a FRIEND.</p>
+            <q>
+               <p>Quod ſpiro, &amp; placeo (ſi placeo) tuum est.</p>
+               <bibl>
+                  <hi>HORACE.</hi>
+               </bibl>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed for W. HAWES, at the <hi>Roſe</hi> in <hi>Ludgate-Street;</hi> and Sold by <hi>John Nutt,</hi> near <hi>Stationers-Hall,</hi> 1700.</p>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb facs="tcp:53377:2"/>
+            <pb n="1" facs="tcp:53377:2"/>
+            <head>THE Scene's Chang'd, <hi>&amp;c.</hi>
+            </head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <lg>
+               <l>BY all that does our Solemn <hi>Friendſhip</hi> bind,</l>
+               <l>I'll freely tell the Secrets of my Mind;</l>
+               <l>I'll tell, what no Man ever yet has known,</l>
+               <l>Except the ſad <hi>Deſerters</hi> of the Town.</l>
+               <l n="5">I'll curſe no Fortune, nor I'll blame no Fate;</l>
+               <l>Happy I was, tho' wretched now too late.</l>
+               <l>I only beg the favour but to read</l>
+               <l>The rambling Thoughts of a deceaſed Head;</l>
+               <l>And if you find I've Thought and Writ in vain,</l>
+               <l n="10">Impute the Dullneſs to a fancy'd Pain.</l>
+            </lg>
+            <lg>
+               <l>You needs muſt know how often I confeſs,</l>
+               <l>My Life's like Satyrs in a Wilderneſs,</l>
+               <l>Or rather, (Sir, I ſpeak it in a Rage)</l>
+               <l>Like doleful Owls, but in a larger Cage.</l>
+               <l n="15">You knew the Briskneſs of my Youthful Days,</l>
+               <l>Careleſs of bluſhing Shame I was, and Praiſe:</l>
+               <l>I never acted or ſuſpected Ill,</l>
+               <l>Bravely I check'd th' <hi>Impetus</hi> of Will.</l>
+               <l>One Paſſion, I muſt own, I ever had,</l>
+               <l n="20">I Lov'd exceſſively, and that was bad.</l>
+               <l>Not that I blame the Paſſion; for who can</l>
+               <l>Live without gentle Love, and yet be Man?</l>
+               <l>'Tis this that keeps the Univerſe ſo well,</l>
+               <l>And nothing but the want of this makes Hell.</l>
+               <l n="25">It is not Love, but furious Luſt that kills,</l>
+               <l>And has created all the ſpreading Ills.</l>
+               <l>For certain 'tis, that Well-intended Love</l>
+               <l>Is entertain'd by Joyful Saints above:</l>
+               <l>And if our Happineſs conſiſts in this,</l>
+               <l n="30">Here we begin to taſte Eternal Bliſs.</l>
+            </lg>
+            <lg>
+               <l>Beſides all this, you know how I was bred,</l>
+               <l>And what an eaſie ſtate of Life I've led.</l>
+               <l>
+                  <pb n="2" facs="tcp:53377:3"/>
+How many Claſſick Authors have we read,</l>
+               <l>And awkard, hum-drum Verſes made?</l>
+            </lg>
+            <lg>
+               <l n="35">From Playful School to the Dear <hi>Muſes</hi> Seat,</l>
+               <l>You muſt remember, was my next Retreat:</l>
+               <l>Here firſt I furniſhed my craving Mind</l>
+               <l>With all the crabbed Logick I could find.</l>
+               <l>With ſturdy Arguments I could Diſpute,</l>
+               <l n="40">Affirm, Deny, Object, and then Confute.</l>
+               <l>Improv'd by this, I found my ſelf grow bold,</l>
+               <l>But ſoon left off; for Logick, I was told,</l>
+               <l>Was fit for nothing but to make Men ſcold.</l>
+               <l>Then I experienc'd pregnant Nature's Laws,</l>
+               <l n="45">And found, there's no Effect without a Cauſe.</l>
+               <l>Matter could not by Matter firſt be mov'd,</l>
+               <l>And, without Outward Impulſe, muſt have ſtood;</l>
+               <l>That ſenſeleſs flowing Atoms ne'er could join,</l>
+               <l>To form a World ſo exquiſitely fine.</l>
+               <l n="50">What wretched Folly 'tis to think, by Chance</l>
+               <l>They could into ſtupendous Order dance!</l>
+               <l>If ſtupid Matter any Creature made,</l>
+               <l>Why do's it leave its old Creating trade?</l>
+               <l>Why does not ſtill the fertile, moiſten'd Earth</l>
+               <l n="55">To Serpents, Cows, and Birds, and Men give birth!</l>
+               <l>Some would allow the World Eternity;</l>
+               <l>Others, not knowing Secret Cauſes, flie</l>
+               <l>To Depths of Intricate Antipathy.</l>
+               <l>Nothing was here, that led beyond the Grave;</l>
+               <l n="60">Nothing, that ſolid Satisfaction gave.</l>
+            </lg>
+            <lg>
+               <l>To ſober <hi>Ethicks</hi> next I was enclin'd,</l>
+               <l>Where I might Nature's true Religion find.</l>
+               <l>All the Philoſophers were here at odds,</l>
+               <l>Some were for One, but moſt for many Gods:</l>
+               <l n="65">Good and Evil there were but few could ſtate,</l>
+               <l>While ſome affirm'd Irrevocable Fate.</l>
+               <l>As for the Active Soul, ſome would agree</l>
+               <l>'Twas a bright Spark of the Divinity.</l>
+               <l>But all the wild, licentious Rabble were</l>
+               <l n="70">For proving it would vaniſh into Air,</l>
+               <l>To cure the dull Diſtemper of Deſpair.</l>
+               <l>
+                  <hi>Stoicks</hi> had Wiſdom, but no common Sence;</l>
+               <l>Words, not hard Blows, on them had influence.</l>
+               <l>
+                  <pb n="3" facs="tcp:53377:3"/>
+To talk of darling Pleaſures 'twas in vain;</l>
+               <l n="75">On Racks they were inſenſible of Pain.</l>
+               <l>Vertue and lawleſs Vice diſtinguiſh'd were</l>
+               <l>To keep the <hi>Mobb</hi> within the bounds of Fear.</l>
+               <l>Some did imagine future, pleaſing Groves,</l>
+               <l>Where they might ſatisfie their wanton Loves,</l>
+               <l n="80">And revel there in undiſturb'd Delight,</l>
+               <l>Free from the bluſhes of the ſinning Night.</l>
+               <l>
+                  <hi>Elizium's</hi> Fields were Vertuous Mens Reward,</l>
+               <l>Who always did ſtrict Innocence regard.</l>
+               <l>As for the Wicked, they had no Relief,</l>
+               <l n="85">But to their Crimes proportionable Grief;</l>
+               <l>In deep Sulphureous Caves the Wretches lie,</l>
+               <l>Burnt, for atrocious Ills, eternally.</l>
+               <l>Here we may view ſad <hi>Siſyphus</hi>'s Stone,</l>
+               <l>With endleſs motion rowling up and down.</l>
+               <l n="90">There, in a gentle gliding River, ſtands</l>
+               <l>The <hi>Babler,</hi> without uſe of Mouth or Hands;</l>
+               <l>The Charming Apples to his Lips are caſt,</l>
+               <l>Which always cheat his reaching, eager Taſte:</l>
+               <l>He ſuffers by that <hi>Organon</hi> of Senſe</l>
+               <l n="95">By which he gave the ſhamefulleſt Offence.</l>
+            </lg>
+            <lg>
+               <l>From graver Morals, to <hi>Aſtronomy</hi>
+               </l>
+               <l>Was the next courſe of my Philoſphy.</l>
+               <l>Nothing of theſe could ſatisfie my Mind,</l>
+               <l>For Orders and a Gown I was deſign'd.</l>
+               <l n="100">To Read the Sacred Volumes was my care,</l>
+               <l>And know what Sence the niceſt Words would bear.</l>
+               <l>Some pious Syſtem I did next digeſt,</l>
+               <l>'Twas that which Dr. <hi>B</hi>—<hi>t</hi> ſaid was beſt.</l>
+               <l>Thus furniſhed for Preaching and a Gown,</l>
+               <l n="105">I left the College, and repair'd to Town.</l>
+            </lg>
+            <lg>
+               <l>I'll tell the reaſon freely, without heat,</l>
+               <l>Why I ſo quickly left the <hi>Muſes</hi> Seat.</l>
+               <l>Near famous <hi>Chriſt-church,</hi> in a Corner ſtands</l>
+               <l>A ſneaking Coll. which a Great <hi>Don</hi> Commands,</l>
+               <l n="110">Whoſe Native Parts were always counted good,</l>
+               <l>And ever was eſteem'd true Fleſh and Blood:</l>
+               <l>Beſides all this, you needs muſt know him well,</l>
+               <l>For formerly he bore away the <hi>Bell.</hi>
+               </l>
+               <l>But after all, an Enemy muſt own</l>
+               <l n="115">How oft extenſive Learning he has ſhown,</l>
+               <l>And ſtill remains an Honour to the Gown.</l>
+               <l>
+                  <pb n="4" facs="tcp:53377:4"/>
+Ill natur'd Feuds here many Years had reign'd,</l>
+               <l>And worſer Ills its Reputation ſtain'd,</l>
+               <l>For <hi>Calvin</hi>'s Principles are here maintain'd.</l>
+               <l n="120">
+                  <hi>Calvin,</hi> who in a <hi>Chagrin</hi> Fit could tell,</l>
+               <l>Some were decreed eternally to Hell;</l>
+               <l>As if his Pre-exiſtent Soul could ſee</l>
+               <l>The Secret Acts of the Myſterious Three.</l>
+               <l>Our private Statutes wholſom Rules contain'd,</l>
+               <l n="125">And All, to Uniformity reſtrain'd.</l>
+               <l>It was the pious Founder's ſetled Care,</l>
+               <l>T'oblige us all to Sacraments and Pray'r.</l>
+               <l>Theſe holy Duties long neglected were,</l>
+               <l>And not obſerv'd by <hi>S</hi>—<hi>ne</hi>— once a Year.</l>
+               <l n="130">This made the Active Members ſtir betimes,</l>
+               <l>To give a check to aggravated Crimes.</l>
+               <l>The delegated Powers heard the Cauſe,</l>
+               <l>And ſome could ſee the open breach of Laws;</l>
+               <l>But ſhuffling Favour, and a civil Treat,</l>
+               <l n="135">Made them forgive Offences, though ſo great.</l>
+               <l>This was the cauſe that <hi>A</hi>—<hi>r</hi> and <hi>Tom H</hi>—<hi>ne</hi>
+               </l>
+               <l>Have ſince incurr'd the angry <hi>Maſter</hi>'s Scorn.</l>
+               <l>But this I truly wiſh, they both may live</l>
+               <l>To be forgiven, as <hi>they</hi> both <hi>forgive.</hi>
+               </l>
+               <l n="140">After theſe Civil Heats began to cool,</l>
+               <l>I went to <hi>Oxford,</hi> from the weary School.</l>
+               <l>Then 'twas my willing Freedom did commence,</l>
+               <l>And tender Paſſions harden'd into Sence.</l>
+               <l>Not that I thought my ſelf above Command,</l>
+               <l n="145">As ſoon as cloath'd with decent Gown and Band.</l>
+               <l>No, conſtantly the Exerciſe I kept,</l>
+               <l>And ſeldom, as the Reading Chaplain, ſlept:</l>
+               <l>My Tutor's formal Lectures I obſerv'd,</l>
+               <l>And from his kind Directions ſeldom ſwerv'd.</l>
+               <l n="150">Not that I give him Thanks for all his Care,</l>
+               <l>That were enough to make a <hi>Calvin</hi> ſwear:</l>
+               <l>For he'd have had me read in <hi>B</hi>—<hi>ter's Call,</hi>
+               </l>
+               <l>With other Works as dull and whimſical.</l>
+               <l>Once <hi>Hammond</hi> did his heavy Cenſure feel,</l>
+               <l n="155">And <hi>Pool,</hi> he ſaid, excell'd him by a deal.</l>
+               <l>To keep <hi>Slichtingius</hi> or <hi>Grotius,</hi> had been</l>
+               <l>Expulſion from his Favour, and a Sin.</l>
+               <l>In ſhort, the Books and Company I choſe,</l>
+               <l>Firſt caus'd the Feuds that afterwards aroſe,</l>
+               <l n="160">For both alike did <hi>Calvin</hi>'s Rules oppoſe.</l>
+               <l>
+                  <pb n="5" facs="tcp:53377:4"/>
+After Commencement of my firſt Degree,</l>
+               <l>I dreamt of nothing elſe but Liberty:</l>
+               <l>But ſoon diſcern'd another Act and Scene,</l>
+               <l>For I was ſubject to a ſurly Dean.</l>
+               <l n="165">In truth, I muſt confeſs, he could Diſpute,</l>
+               <l>And only thus diſtinguiſh'd was from Brute.</l>
+               <l>His dogged Temper quickly might be read,</l>
+               <l>To Fetch and Carry always he was bread.</l>
+               <l>What Complaiſance, what Manners can we have,</l>
+               <l n="170">From one that was, and ſtill remains a Slave?</l>
+               <l>I can't forbear to laſh him with my Pen;</l>
+               <l>And if I hear he frowns, I'll do't again.</l>
+               <l>He, with the reſt of the inglorious Crowd,</l>
+               <l>Like riſing Vapours thicken'd into Cloud,</l>
+               <l n="175">With the moſt opprobrious, hateful Spite,</l>
+               <l>Eclips'd from me the <hi>Maſter</hi>'s pleaſing Light.</l>
+               <l>I ſoon perceiv'd the Faction would prevail;</l>
+               <l>For Power, Pride and Envy ſeldom fail.</l>
+               <l>In threatning Words their Fury firſt appear'd;</l>
+               <l n="180">And ſince I could not love, they would be fear'd.</l>
+               <l>With ſmaller Mulcts they puniſhed my Purſe,</l>
+               <l>
+                  <hi>Bell, Book and Candle</hi> was too kind a Curſe.</l>
+               <l>When I was Sick, more Sconces you might ſee,</l>
+               <l>Than five times told my skilful Doctor's Fee.</l>
+               <l n="185">'Tis Uſage met with no where but in Hell,</l>
+               <l>Where none but Damned are conſtrain'd to dwell.</l>
+               <l>Thus among cruel <hi>Indians,</hi> Authors ſay,</l>
+               <l>'Twas Death to be Diſorder'd but one day.</l>
+               <l>No Submiſſion, no Repentance pleas'd,</l>
+               <l n="190">But pay I muſt, and did, and ſo was eas'd.</l>
+               <l>A heavy Charge was levell'd at my Name,</l>
+               <l>Sliely deſign'd to blaſt my former Fame.</l>
+               <l>The <hi>Embryo</hi> Project I too ſoon perceiv'd,</l>
+               <l>And quickly found a way to be reliev'd.</l>
+               <l n="195">No Fellowſhip I could expect; for Fools</l>
+               <l>Were <hi>Fellows, Tutors</hi> made, and Servile <hi>Tools.</hi>
+               </l>
+               <l>This was the time I pitch'd on to retreat;</l>
+               <l>This was my only fault, but not ſo great.</l>
+               <l>If I made too much haſte, let no one blame</l>
+               <l n="200">A Man that ſhuns a ſure deſtroying Flame.</l>
+               <l>Does he deſerve Rebuke, that thus prefers</l>
+               <l>A quiet Evil to inteſtine Jars?</l>
+               <l>Happy's the Man, I envy his Remove,</l>
+               <l>That flies from ſhameful Feuds, and then to Love!</l>
+               <l n="205">
+                  <pb n="6" facs="tcp:53377:5"/>
+I ſaw my Freedom grad'ally impair'd,</l>
+               <l>And boldly ran into the Ills I fear'd,</l>
+               <l>(If I may call 'em <hi>Ills;</hi> for no one can</l>
+               <l>Well live without what chiefly makes up Man.)</l>
+               <l>Thus ſhunning <hi>Scylla,</hi> we <hi>Carybdis</hi> hit;</l>
+               <l n="210">And when we think we're ſafe, we ſooneſt ſplit.</l>
+            </lg>
+            <lg>
+               <l>Now to divert your Mind, and change the Scene,</l>
+               <l>I'll tell you where I ever ſince have been;</l>
+               <l>What Life I've led, and how I have been toſt,</l>
+               <l>Like <hi>Virgil</hi>'s <hi>Spark,</hi> from Pillar unto Poſt.</l>
+               <l n="215">When firſt I came to Town, this was my caſe,</l>
+               <l>I ſoon procur'd a drudging Reader's Place.</l>
+               <l>This ſtep was much below my ſoaring Mind,</l>
+               <l>But was the firſt Advancement I could find.</l>
+               <l>So feeble Children creep at firſt, and then</l>
+               <l n="220">Uſe ſwiſter Limbs as they grow abler Men.</l>
+            </lg>
+            <lg>
+               <l>The next Adventure of my roving Life,</l>
+               <l>Was the wiſe Choice of a true Vertuous Wife.</l>
+               <l>If ever <hi>Fortune</hi> ſmil'd it muſt be when</l>
+               <l>I lov'd the Kindred of an <hi>Ox</hi>—<hi>den;</hi>
+               </l>
+               <l n="225">A Name that Loyal <hi>Kent</hi> has always known</l>
+               <l>True to its Country, and the Sacred Gown.</l>
+               <l>Happy a while I did enjoy this State,</l>
+               <l>Till I was urg'd by a ſeverer Fate,</l>
+               <l>To leave too ſoon, what I enjoy'd too late.</l>
+               <l n="230">Not that I do repent, or ever ſhall,</l>
+               <l>For ſure my Happineſs is not ſo ſmall.</l>
+               <l>That muſt the higheſt pitch of Madneſs be,</l>
+               <l>To care, and wiſh, for no Felicity.</l>
+            </lg>
+            <lg>
+               <l>Long did my lab'ring Mind with Hopes contrive</l>
+               <l n="235">An eaſier, and better way to thrive,</l>
+               <l>Not that I am ſo very fond to live.</l>
+               <l>Then I reſolv'd, not fearing a Diſgrace,</l>
+               <l>To change my Reader's, for a Chaplain's Place:</l>
+               <l>For this I pay my Thanks to Captain <hi>B</hi>—<hi>g,</hi>
+               </l>
+               <l n="240">True to his Friend, his Country, and his King;</l>
+               <l>Who now, with equal Juſtice on the Shore</l>
+               <l>Obliges, as he did at Sea before.</l>
+               <l>The floating Caſtle, that was now my home,</l>
+               <l>Was juſtly valu'd, for its ſpacious Room.</l>
+               <l n="245">
+                  <pb n="7" facs="tcp:53377:5"/>
+Its handſom, ſtately Form, when firſt ſurvey'd,</l>
+               <l>Made <hi>Engliſh</hi> Sailors ſmile, the <hi>French</hi> affraid.</l>
+               <l>How briskly would ſhe ſtem the ſwelling Tide!</l>
+               <l>Well pois'd on Starboard and the Larboard-ſide.</l>
+               <l>The well-Rigg'd <hi>Orford</hi> ſeem'd as if ſhe'd raiſe</l>
+               <l n="250">The Conqu'ring <hi>Jennings</hi> to a <hi>Ruſſel</hi>'s Praiſe.</l>
+               <l>Under his Conduct who would ſneak from Death?</l>
+               <l>Or grudge for ſuch a Man his parting Breath?</l>
+               <l>
+                  <hi>Jennings!</hi> who knows the <hi>Britiſh</hi> Seas as well</l>
+               <l>As peeviſh <hi>Read</hi> the way from <hi>Nore</hi> to <hi>Deal.</hi>
+               </l>
+               <l n="255">No Man of War has ever made him ſtrike,</l>
+               <l>And few Commanders dare affirm the like:</l>
+               <l>Always ſo civil to an Enemy,</l>
+               <l>Who ſeldom griev'd to loſe the Victory.</l>
+               <l>His friendly Favours I muſt not forget,</l>
+               <l n="260">And for Returns I can't be out of debt.</l>
+               <l>So moral Bankrupts willingly Compound,</l>
+               <l>And wiſh that they could pay the utmoſt Pound.</l>
+               <l>My fartheſt Voyage was the <hi>Downs,</hi> and there</l>
+               <l>I rid the ſweeteſt part of all the Year.</l>
+               <l n="265">From the high <hi>Deck</hi> 'twas eaſie to command</l>
+               <l>A pleaſing Proſpect of the neighb'ring Land.</l>
+               <l>On t'other ſide the Objects of the Eye</l>
+               <l>Were only foaming Seas, and azure Sky.</l>
+               <l>The <hi>Southern</hi> View preſents the <hi>Gallick</hi> Shore,</l>
+               <l n="270">Where eaſily they hear our Cannons roar;</l>
+               <l>And there the humble <hi>French</hi> with trembling fear</l>
+               <l>Our Guns or Fighting Men ſhould come too near.</l>
+               <l>Here the wide Harbour fitly can contain</l>
+               <l>The largeſt Fleet that triumphs on the Main.</l>
+               <l n="275">Here you may ſee the crowded Ships, while ſome</l>
+               <l>Are leaving, gladly others ſailing home.</l>
+               <l>The <hi>Britiſh</hi> Squadron here for Orders waits,</l>
+               <l>To carry welcome Peace to foreign States.</l>
+               <l>The Ships that come from the moſt diſtant Shore</l>
+               <l n="280">Reſpectfully ſalute the Commodore:</l>
+               <l>Who with Unequal Volleys does reply,</l>
+               <l>To ſhew who holds the chief Authority.</l>
+               <l>Here the wide <hi>Rhutupian</hi> Shore is ſeen,</l>
+               <l>Where famous <hi>Caeſar</hi>'s Arms had conqur'ing been;</l>
+               <l n="285">Where firſt the Warlike <hi>Britains</hi> did ſubmit,</l>
+               <l>And with their Freedom their old Fierceneſs quit.</l>
+               <l>"Now none of lofty <hi>Deal</hi>'s proud Tow'rs are ſhown,</l>
+               <l>"Not one of <hi>Caeſar</hi>'s Trophies grace the Town.</l>
+               <l>
+                  <pb n="8" facs="tcp:53377:6"/>
+And if ſome <hi>Juſtice</hi> no one did diſpenſe,</l>
+               <l n="290">You'd ſcarce believe the <hi>Britains</hi> baniſh'd hence.</l>
+               <l>Here drunken Seamen ſwear, and louder roar</l>
+               <l>Than all their Guns, or Waves againſt the Shore.</l>
+               <l>The vulgar Herd ſtand on the <hi>Beach,</hi> and pray</l>
+               <l>Not for a fair, but a tempeſtuous Day:</l>
+               <l n="295">They ſeem to worſhip raging Storms begun,</l>
+               <l>As the ſoft <hi>Perſians</hi> once the Riſing Sun.</l>
+               <l>The ſame rough Wind that Death to others blows,</l>
+               <l>To them new life, new heaps of Treaſures ſhows.</l>
+               <l>The dark'ning Clouds that now eclipſe the Light</l>
+               <l n="300">(And even <hi>Greenland</hi> Monſters would affright)</l>
+               <l>Raiſe Day within their Hearts, who gladly ſtand</l>
+               <l>Expecting the rich Spoils of <hi>Goodwin</hi>'s <hi>Sand.</hi>
+               </l>
+               <l>Thus hungry Eagles dying Hoſts ſurvey,</l>
+               <l>Then eagerly deſcend to ſeize the Prey.</l>
+               <l n="305">Their nimble <hi>Yawls</hi> are ſoon prepar'd, and then</l>
+               <l>Their Nets and Drags catch Shipwrack'd Goods and Men.</l>
+               <l>Such ſavage Manners, and ſo wildly bred,</l>
+               <l>They Plunder Sailors <hi>living</hi> and when Dead.</l>
+               <l>At Smuggling ſo expert, and ſo compleat,</l>
+               <l n="310">They firſt the King, and then his Subjects cheat.</l>
+               <l>I've this reſpect for <hi>Deal,</hi> I wiſh to live</l>
+               <l>To ſee its Manners chang'd, its Tradeſmen thrive:</l>
+               <l>For this effect there's now an happy Cauſe,</l>
+               <l>A Civil Magiſtrate, and Sober Laws.</l>
+               <l n="315">May his Example famous be, and bright,</l>
+               <l>To lead them out of Darkneſs into Light,</l>
+               <l>As their <hi>high Fires</hi> the Pilots do by Night.</l>
+               <l>May Juſtice there diſtill like healthful Balm,</l>
+               <l>And never be too ſtormy, nor too calm.</l>
+               <l n="320">Their Laws I wiſh obſerv'd, ſo lately made,</l>
+               <l>And Goſpel minded too, as well as Trade.</l>
+            </lg>
+            <lg>
+               <l>Now I'll tell you how my Life was ſpent,</l>
+               <l>With uſeful Pleaſure, and with true Content.</l>
+               <l>As early as the Sun I left my Bed,</l>
+               <l n="325">With pious, ſober Thoughts well furniſhed.</l>
+               <l>After my Duty was to Heaven paid,</l>
+               <l>Then next the Holy Word of God I read.</l>
+               <l>To ſome improving Author next I turn'd,</l>
+               <l>And then for ſome few Minutes I adjourn'd:</l>
+               <l n="330">On the large Deck I often us'd to walk,</l>
+               <l>And freely I could read, or think, or talk.</l>
+               <l>
+                  <pb n="9" facs="tcp:53377:6"/>
+To chuſe my Company I freedom had,</l>
+               <l>For here, as ev'ry where, there's good and bad.</l>
+               <l>Some had both <hi>Indies</hi> ſeen, and would relate</l>
+               <l n="335">The Acts of Providence, which they term'd <hi>Fate;</hi>
+               </l>
+               <l>What Dangers they'd eſcap'd, what Hazards run,</l>
+               <l>And how they travell'd to the Setting Sun;</l>
+               <l>What Monſtrous Beaſts, what Monſtrous Men they'd ſeen,</l>
+               <l>In what deſerted Iſlands they had been.</l>
+               <l n="340">Some careful Obſervations they had made,</l>
+               <l>And gave a very good Account of Trade.</l>
+               <l>The diſtant Countries they with Skill deſcrib'd,</l>
+               <l>What Cloaths were worn, and by what Food they liv'd,</l>
+               <l>Under what Manners and what Laws they thriv'd.</l>
+               <l n="345">Others in bloody Wars had lately been,</l>
+               <l>And this by honourable Scars was ſeen:</l>
+               <l>Theſe o'er a jolly <hi>Bowl</hi> would ſmiling tell,</l>
+               <l>Who like Cowards, and who like Hero's fell.</l>
+               <l>Heated with pleaſant <hi>Punch,</hi> they'd boldly own</l>
+               <l n="350">Th' undaunted Courage they themſelves had ſhown.</l>
+               <l>In <hi>his</hi> ſtout Arm the piercing Bullet lies,</l>
+               <l>And pointed Splinters ſcarr'd his brawny Thighs.</l>
+               <l>
+                  <hi>This</hi> in the <hi>Steeridge</hi> had a fractur'd Skull,</l>
+               <l>But ne'er of <hi>Brains,</hi> as now of <hi>Spirits,</hi> full.</l>
+               <l n="355">He'd tell <hi>you</hi> how they firſt <hi>Engag'd,</hi> and when</l>
+               <l>From <hi>Stem</hi> to <hi>Stern</hi> they <hi>rak'd</hi> the active Men:</l>
+               <l>How, after <hi>Tacking,</hi> what <hi>Broad-ſides</hi> they gave,</l>
+               <l>How reſolute their Foes were, and how brave;</l>
+               <l>The leaky Ship they nimbly ſtriv'd to ſave,</l>
+               <l n="360">But could not <hi>bony</hi> it from its Watry Grave:</l>
+               <l>The ſwimming Sailors ſnatch'd the looſen'd Ropes,</l>
+               <l>Baniſh their Fears, and <hi>cling</hi> by ſlender Hopes.</l>
+               <l>Some rather ſink, and ſtoutly chuſe to die,</l>
+               <l>Than have their Lives, and want their Liberty.</l>
+            </lg>
+            <lg>
+               <l n="365">One <hi>Reformade</hi> we had who us'd the Sea,</l>
+               <l>Pleaſant and eaſie in our Company;</l>
+               <l>Full of good Sence, and Free, and <hi>Debonnaire,</hi>
+               </l>
+               <l>To chuſe good Friends, good Books, was all his care.</l>
+               <l>With great inſtructive Pleaſure I have known</l>
+               <l n="370">What he had ſeen, what heard, and read, and done.</l>
+            </lg>
+            <lg>
+               <l>With my kind <hi>Captain</hi> I was ask'd to Dine,</l>
+               <l>Where our Repaſt was plentiful and fine,</l>
+               <l>Good Meat, good Muſick, and true Virgin Wine.</l>
+               <l>
+                  <pb n="10" facs="tcp:53377:7"/>
+A modeſt Freedom here was always us'd,</l>
+               <l n="375">He never forc'd us, when we had refus'd;</l>
+               <l>Except when the Great <hi>Ruſſel</hi>'s Health went round,</l>
+               <l>No Man to Drink at any time was bound,</l>
+               <l>And always then the cheerful Glaſs was crown'd.</l>
+               <l>Such Food, and ſuch Diſcourſes I might find,</l>
+               <l n="380">At once to fill my Belly, and my Mind.</l>
+            </lg>
+            <lg>
+               <l>After all this, I truly muſt confeſs,</l>
+               <l>There was one reigning, ſilly Wickedneſs;</l>
+               <l>For very few I found that could forbear</l>
+               <l>From horrid Oaths, not fit to ſpeak or hear.</l>
+               <l n="385">Some wou'd as rudely Swear, as if they'd been</l>
+               <l>Not trafficking for Goods, but Oaths and Sin.</l>
+               <l>This was the chiefeſt Fault, the great Offence,</l>
+               <l>And which I often try'd to baniſh thence:</l>
+               <l>But ſooner might the raging Winds command,</l>
+               <l n="390">Or ſtem the rowling Tide with either Hand;</l>
+               <l>Arreſt a Bullet in its ſwifteſt pace,</l>
+               <l>Or make a lofty Mountain change its place;</l>
+               <l>Or pluck the twinkling Stars from their abode,</l>
+               <l>Or with a crumbling Wafer make a God.</l>
+            </lg>
+            <lg>
+               <l n="395">Late in the Summer we receiv'd our Pay,</l>
+               <l>And the whole Crew was ſoon diſpatch'd away.</l>
+               <l>To a new Scene of Life I then remov'd,</l>
+               <l>Which ever ſince I have enjoy'd and lov'd.</l>
+            </lg>
+            <lg>
+               <l>Not far from great <hi>Auguſta</hi> ſtands a Vill,</l>
+               <l n="400">Whoſe ſcatter'd Houſes grace the riſing Hill;</l>
+               <l>Near the ſmooth-ſliding <hi>Thames,</hi> and that fair Town</l>
+               <l>Where Pious <hi>Edgar</hi> firſt receiv'd his Crown.</l>
+               <l>But more, 'tis not to little, or too great,</l>
+               <l>Famous alone for the Great <hi>Alſton</hi>'s Seat;</l>
+               <l n="405">
+                  <hi>Alſton,</hi> a Name I fondly love to ſing,</l>
+               <l>Becauſe ſo early Loyal to his King;</l>
+               <l>Whoſe prudent Conduct reaches now to raiſe</l>
+               <l>Honours, a better Fortune, and more Praiſe.</l>
+               <l>His forward Travels poliſhed his Mind,</l>
+               <l n="410">Where ſprightly Wit with Manly Sence is join'd;</l>
+               <l>The <hi>Air</hi> of <hi>France</hi> without the <hi>Vanity,</hi>
+               </l>
+               <l>
+                  <hi>Engliſh</hi> Courage, and <hi>Dutch</hi> Solidity.</l>
+               <l>Happy he is, and now I dare confeſs,</l>
+               <l>I cannot wiſh him greater Happineſs.</l>
+               <l n="415">
+                  <pb n="11" facs="tcp:53377:7"/>
+The greateſt Comforts he enjoys of life,</l>
+               <l>An Happy <hi>Off-ſpring,</hi> and a Charming <hi>Wife:</hi>
+               </l>
+               <l>Not <hi>Cupid</hi>'s Mother half ſo Fair; ſo Good,</l>
+               <l>You'd think ſhe nothing elſe but Heaven lov'd.</l>
+               <l>Had ſhe with <hi>Juno, Pallas, Venus</hi> been,</l>
+               <l n="420">
+                  <hi>Paris</hi> would then as ſoon have judg'd as ſeen.</l>
+               <l>Not <hi>Jove</hi> in all his Shapes, though 'twas in Gold,</l>
+               <l>To tempt her Vertue would have been ſo bold.</l>
+               <l>To a late Age may both their Lives extend,</l>
+               <l>And all their Days in melting Pleaſures ſpend,</l>
+               <l n="425">And never want a true and faithful Friend.</l>
+               <l>I'll ſtretch my wiſh, And may they always Love,</l>
+               <l>Till they grow Perfect with the Saints above.</l>
+               <l>May the ill Tongues that try to blaſt <hi>her</hi> Name,</l>
+               <l>Be never wiſper'd by the Mouth of Fame.</l>
+               <l n="430">Not that I think they live without all Faults,</l>
+               <l>But greateſt Vertues meet with great Aſſaults.</l>
+            </lg>
+            <lg>
+               <l>The <hi>Cure</hi> of Souls, (that great and weighty Charge,</l>
+               <l>And even when the Pariſh is not large)</l>
+               <l>A Rev'rend good Old Man has long ſupply'd,</l>
+               <l n="435">Whoſe humble, modeſt Temper has been try'd;</l>
+               <l>Full Thirty Years, in Sermons and in Pray'r,</l>
+               <l>His little Flock has known his ſweating Care.</l>
+               <l>He always early taught the growing Youth</l>
+               <l>The plaineſt Precepts of unerring Truth.</l>
+               <l n="440">The craving Poor not grudgingly he fed</l>
+               <l>With prudent Counſel, Money, and with Bread.</l>
+               <l>The Rich an hoſpitable Table find,</l>
+               <l>Where he is gen'rous, eaſie, free, and kind.</l>
+               <l>His num'rous Kindred all his Bounty own,</l>
+               <l n="445">And from that Fountain ſome have Wealthy grown.</l>
+               <l>His ſpotleſs Vertues I would lively paint,</l>
+               <l>But mortal Colours we confeſs too faint,</l>
+               <l>To give a worthy Beauty to a Saint.</l>
+               <l>Never may I ungratefully forget</l>
+               <l n="450">To pay my <hi>own</hi> and long-continu'd Debt.</l>
+               <l>I pray, (and may my <hi>urgent</hi> Pray'rs be heard)</l>
+               <l>That <hi>God,</hi> for <hi>me,</hi> would give him a <hi>Reward,</hi>
+               </l>
+               <l>Since <hi>I</hi> can pay him nothing but <hi>Regard.</hi>
+               </l>
+               <l>Since long the Fates his happy Web have ſpun,</l>
+               <l n="455">Grant that it may much longer ſmoothly run.</l>
+               <l>Late, very late may the good Man remove</l>
+               <l>Unto the peaceful Court of boundleſs Love.</l>
+               <l>
+                  <pb n="12" facs="tcp:53377:8"/>
+There may his Earthly Cares be crown'd with Joy,</l>
+               <l>Which none can interrupt, or none deſtroy.</l>
+               <l n="460">Muſt not he then in Heav'n ſhine very bright,</l>
+               <l>Who ſparkles here with ſuch diffuſive Light?</l>
+               <l>Each active Vertue, and each noble Grace,</l>
+               <l>Deſerve the Pleaſures of a better Place.</l>
+               <l>This he would wiſh himſelf, but that his ſtay</l>
+               <l n="465">Is to ſhew many others yet their Way.</l>
+               <l>His good Example, and his pious Care,</l>
+               <l>Makes Heav'n it ſelf a bleſſed Subject ſpare.</l>
+               <l>Spent with the Altar's Service, not with Grief,</l>
+               <l>His ſinking Spirits call for ſhort relief:</l>
+               <l n="470">Not that the Paſt'ral Charge he'll quite reſign,</l>
+               <l>But only make the <hi>loweſt</hi> Duty mine.</l>
+               <l>With him I live, 'tis him I ſerve and love,</l>
+               <l>From hence I truly wiſh a late remove.</l>
+               <l>'Tis Solitude, to what I once enjoy'd;</l>
+               <l n="475">But Pleaſure turns to Surfeit, when we're cloy'd.</l>
+               <l>The Noiſe and hurry of the crowded Town</l>
+               <l>Now makes me think my Pleaſure's all my own.</l>
+               <l>My preſent Calm, and moſt delightful Eaſe,</l>
+               <l>Seem like the abſence of a ſtern Diſeaſe;</l>
+               <l n="480">And after Sickneſs, Health muſt always pleaſe.</l>
+               <l>In this ſecure and undiſturb'd Retreat</l>
+               <l>I envy not the Wealthy, or the Great.</l>
+               <l>This I propoſe to be my chiefeſt End,</l>
+               <l>To ſerve my GOD, and love and ſerve my <hi>Friend.</hi>
+               </l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
